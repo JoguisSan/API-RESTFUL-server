@@ -1,6 +1,4 @@
-# API-RESTFUL-server
-
-# RESTful API with Node.js + TypeScript
+# API-RESTFUL-server with Node.js + TypeScript
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.0-green?logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue?logo=typescript)
